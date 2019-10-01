@@ -62,9 +62,21 @@ There is no explicit git ignore command: instead the .gitignore file must be edi
 | git add README.md | click README button|
 | open README.md file | click commit button | -->
 
-### Install Node Modules
+### Update package.json with GitHub Repository info
 
-1. npm install
+**Syntax**
+"repository": {
+"type": "git",
+"url": "git+https://github.com/GitHubUserName/ProjectName.git"
+},
+"bugs": {
+"url": "https://github.com/GitHubUserName/ProjectName/issues"
+},
+"homepage": "https://github.com/GitHubUserName/ProjectName#readme",
+
+<!-- ### Install Node Modules
+
+1. `npm install` *(installs node)* -->
 
 ---
 
