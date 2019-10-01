@@ -14,7 +14,14 @@
     "url": "https://github.com/Janelgr5/boilermaker/issues"
   },
   "homepage": "https://github.com/Janelgr5/boilermaker#readme",
-  "keywords": ["boilerplate code", "JavaScript", "Node.js", "git", ".gitignore", "Markdown"],
+  "keywords": [
+    "boilerplate code",
+    "JavaScript",
+    "Node.js",
+    "git",
+    ".gitignore",
+    "Markdown"
+  ],
   "author": "Janel Grant",
   "license": "ISC"
 }
