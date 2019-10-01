@@ -38,20 +38,19 @@ _A (slightly) alternative process if creating an **open source project**: https:
 
 ### Add and Update README
 
-| **In Terminal** | **In Browser**|
+<!-- | **In Terminal** | **In Browser**|
 | **_ | _** |
 | git add README.md | click README button|
-| open README.md file | click commit button |
+| open README.md file | click commit button | -->
 
 ---
 
 ## Resources:
 
-# Git Commands
+### Git Commands
 
 \*[Git commands (basic guide)](http://rogerdudler.github.io/git-guide/)
 
-# Markdown, README
+### Markdown, README
 
-_[Documenting your projects on GitHub](https://guides.github.com/features/wikis/)
-_[Markdown documentation from the creator John Gruber](https://daringfireball.net/projects/markdown/syntax) \*[Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/)
+\*[Documenting your projects on GitHub](https://guides.github.com/features/wikis/) \*[Markdown documentation from the creator John Gruber](https://daringfireball.net/projects/markdown/syntax) \*[Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/)
