@@ -6,7 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Janelgr5/boilermaker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Janelgr5/boilermaker/issues"
+  },
+  "homepage": "https://github.com/Janelgr5/boilermaker#readme",
+  "keywords": ["boilerplate code", "JavaScript", "Node.js", "git", ".gitignore", "Markdown"],
   "author": "Janel Grant",
   "license": "ISC"
 }
