@@ -36,21 +36,40 @@ _A (slightly) alternative process if creating an **open source project**: https:
 
 ### Update .gitignore file
 
+**Resources: [.gitignore](https://github.com/github/gitignore)**
+Ignored files are usually build artifacts and machine generated files that can be derived from your repository source or should otherwise not be committed.
+Ignored files are tracked in a special file named .gitignore that is checked in at the root of your repository.
+There is no explicit git ignore command: instead the .gitignore file must be edited and committed by hand when you have new files that you wish to ignore.
+.gitignore files contain patterns that are matched against file names in your repository to determine whether or not they should be ignored.
+
 ### Add and Update README
+
+**Resource:[Documenting your projects on GitHub](https://guides.github.com/features/wikis/)**
+
+**In Browser**
+
+1. Click **README** button. _(Starts a README file for your project)_
+2. Click **Commit** button. _(Commit, push, and merge changes to repository)_
+
+**In README.md file**
+
+3. Add documentation using Markdown
+   A. [Markdown documentation from the creator John Gruber](https://daringfireball.net/projects/markdown/syntax)
+   B. [Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/)
 
 <!-- | **In Terminal** | **In Browser**|
 | **_ | _** |
 | git add README.md | click README button|
 | open README.md file | click commit button | -->
 
+### Install Node Modules
+
+1. npm install
+
 ---
 
-## Resources:
+## More Resources:
 
 ### Git Commands
 
-\*[Git commands (basic guide)](http://rogerdudler.github.io/git-guide/)
-
-### Markdown, README
-
-\*[Documenting your projects on GitHub](https://guides.github.com/features/wikis/) \*[Markdown documentation from the creator John Gruber](https://daringfireball.net/projects/markdown/syntax) \*[Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/)
+\* [Git commands (basic guide)](http://rogerdudler.github.io/git-guide/)
